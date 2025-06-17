@@ -40,5 +40,5 @@ function validarFormulario(event) {
   }
 
   // ✅ Redireciona para o Google se tudo estiver certo
-  window.location.href = "https://www.google.com";
+  window.location.href = "https://combo-shop-products.vercel.app/";
 }
